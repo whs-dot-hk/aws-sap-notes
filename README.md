@@ -3,3 +3,11 @@ https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_
 
 # Transit gateway
 https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html
+
+# Snow family
+- Snowcone
+- Snowball
+- Snowmobile
+
+# RDS
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
