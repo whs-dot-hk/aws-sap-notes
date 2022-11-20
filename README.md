@@ -11,3 +11,6 @@ https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html
 
 # RDS
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
+
+# Dynamodb
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html
