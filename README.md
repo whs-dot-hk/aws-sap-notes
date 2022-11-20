@@ -14,3 +14,6 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
 
 # Dynamodb
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html
+
+## Streams
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/streamsmain.html
