@@ -17,3 +17,6 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Core
 
 ## Streams
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/streamsmain.html
+
+# Direct connect
+https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html
