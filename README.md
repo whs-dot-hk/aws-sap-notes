@@ -26,3 +26,5 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-
 
 # Cognito
 user pool vs identity pool
+
+# Reserved vs on-demand vs spot instance
