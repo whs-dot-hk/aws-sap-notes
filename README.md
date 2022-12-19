@@ -23,3 +23,6 @@ https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gatewa
 
 # Cloudhub
 https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpn-cloudhub.html
+
+# Cognito
+user pool vs identity pool
