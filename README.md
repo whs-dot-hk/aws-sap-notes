@@ -20,3 +20,6 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/streamsmain.htm
 
 # Direct connect
 https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html
+
+# Cloudhub
+https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpn-cloudhub.html
