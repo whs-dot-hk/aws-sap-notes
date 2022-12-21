@@ -31,3 +31,6 @@ user pool vs identity pool
 
 # Placement groups
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+
+# Step functions
+https://docs.aws.amazon.com/step-functions/latest/dg/concepts-standard-vs-express.html
