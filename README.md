@@ -28,3 +28,6 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-
 user pool vs identity pool
 
 # Reserved vs on-demand vs spot instance
+
+# Placement groups
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
