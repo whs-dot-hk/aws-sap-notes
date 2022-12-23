@@ -45,3 +45,6 @@ Target tracking scaling policy
 
 # Glacier flexible retrieval
 5 hrs
+
+# Glacier deep archive
+12 hrs
