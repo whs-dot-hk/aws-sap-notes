@@ -39,3 +39,6 @@ https://docs.aws.amazon.com/step-functions/latest/dg/concepts-standard-vs-expres
 # Organization
 * Tag policy
 * Move accounts
+
+# Simple vs step scaling
+Target tracking scaling policy
