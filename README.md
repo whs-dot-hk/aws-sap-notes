@@ -42,3 +42,6 @@ https://docs.aws.amazon.com/step-functions/latest/dg/concepts-standard-vs-expres
 
 # Simple vs step scaling
 Target tracking scaling policy
+
+# Glacier flexible retrieval
+5 hrs
