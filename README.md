@@ -51,3 +51,6 @@ Target tracking scaling policy
 
 # NAT gateway and AZ
 Internet gateway is HA
+
+# Private link
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/privatelink-interface-endpoints.html
