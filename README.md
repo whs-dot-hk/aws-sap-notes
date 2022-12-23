@@ -48,3 +48,6 @@ Target tracking scaling policy
 
 # Glacier deep archive
 12 hrs
+
+# NAT gateway and AZ
+Internet gateway is HA
